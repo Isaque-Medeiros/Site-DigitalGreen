@@ -26,9 +26,6 @@
                 <a href="InitialPage.html" target="_blank"><button class="btn-login">Login</button> </a>
             </div>
         </div>
-        <div class="ant-login">
-            <img src="/Images/computer.svg" alt="Computer Anim">
-            </div>
     </div>
 </body>
 </html>
